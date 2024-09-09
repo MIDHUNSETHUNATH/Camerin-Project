@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097926760848",
+    "project_id": "camerin-f6671",
+    "storage_bucket": "camerin-f6671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097926760848:android:f77d75a2bc2289c43f3b15",
+        "android_client_info": {
+          "package_name": "com.example.camerin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0NqSA-21Lw3rcWD5Pkp-EVHwdn6CVM24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
